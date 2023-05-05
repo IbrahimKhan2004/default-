@@ -7,13 +7,15 @@
 <img src="https://sahil66.000webhostapp.com/1_st.jpg" alt="1">
 
 
-### Configuration
-To configure this bot add the variables in [sample_config.env](./sample_config.env) and change the name to `config.env`.
-
-### How To Bypass Mega Limit
+<code>How To Bypass Mega Limit</code>
 After Mega Bandwidth Limit Click On <code>Disconnect and delete runtime</code> and start the bot again.
 
 <img src="https://sahil66.000webhostapp.com/2_nd.jpg" alt="1">
+
+
+
+### Configuration
+To configure this bot fill the variables in [sample_config.env](./sample_config.env).
 
 
 ### Commands

@@ -1,0 +1,5 @@
+Pyrogram==2.0.70
+TgCrypto==1.2.5
+pyromod==1.5
+python-dotenv==0.21.0
+aiofiles==22.1.0

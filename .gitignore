@@ -1,0 +1,14 @@
+*.session
+__pycache__/
+.git/
+*.session-journal
+*.session
+tempCodeRunnerFile.py
+Logging.txt
+test.py
+test1.py
+test2.py
+test3.py
+test4.py
+rclone.conf
+config.env
